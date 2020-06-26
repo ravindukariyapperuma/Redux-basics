@@ -25,5 +25,8 @@ store.subscribe(() => {
 })
 
 store.dispatch({type:'ADD'});
+store.dispatch({type:'ADD'});
+store.dispatch({type:'ADD'});
+store.dispatch({type:'ADD'});
 
 store.dispatch({type:'SUBSTRACT'});
